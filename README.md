@@ -28,19 +28,33 @@ Metadata
 Authors:
 
 Vidal-Barbosa, José Lindemberg (Project leader)
+
 Lemos, Filipe (Researcher)
+
 Freitas, Emerson da Silva (Researcher)
+
 Coelho, Victor Hugo R. (Supervisor)
+
 Souza da Silva, Gerald Norbert (Researcher)
+
 Patriota, Eduardo Gonçalves (Researcher)
+
 Claudino, Cinthia Maria de Abreu (Researcher)
+
 Meira, Marcela Antunes (Researcher)
+
 Fullhart, Andrew (Project member)
+
 Bertrand, Guillaume (Researcher)
+
 De Souza, Saulo Aires (Project member)
-Rampinelleg, Cássio Guilherme (Project member)
+
+Rampinelle, Cássio Guilherme (Project member)
+
 Estévez Gualda, Javier (Project member)
+
 Almeida, Cristiano Das Neves (Supervisor)
+
 
 Publication Date: 2025
 
