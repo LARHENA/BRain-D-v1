@@ -16,3 +16,32 @@ This repository contains a complete data processing pipeline that:
 - Calculates comprehensive quality metrics (P, Q1, Q2, Q3)
 - Generates a final quality index for each rain gauge
 - Produces publication-ready visualizations
+
+
+Citation
+
+Source:
+Vidal-Barbosa, J. L. (2024). Brazilian daily rainfall gridded data from a quality controlled dataset (p. 49) [Master’s Thesis, Universidade Federal da Paraíba]. UFPB Repositório Institucional. https://repositorio.ufpb.br/jspui/handle/123456789/33310
+
+Metadata
+
+Authors:
+
+Vidal-Barbosa, José Lindemberg (Project leader)
+Lemos, Filipe (Researcher)
+Freitas, Emerson da Silva (Researcher)
+Coelho, Victor Hugo R. (Supervisor)
+Souza da Silva, Gerald Norbert (Researcher)
+Patriota, Eduardo Gonçalves (Researcher)
+Claudino, Cinthia Maria de Abreu (Researcher)
+Meira, Marcela Antunes (Researcher)
+Fullhart, Andrew (Project member)
+Bertrand, Guillaume (Researcher)
+De Souza, Saulo Aires (Project member)
+Rampinelleg, Cássio Guilherme (Project member)
+Estévez Gualda, Javier (Project member)
+Almeida, Cristiano Das Neves (Supervisor)
+
+Publication Date: 2025
+Location: Brazil
+Institution: Universidade Federal da Paraíba (UFPB)
