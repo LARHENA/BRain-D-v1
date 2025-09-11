@@ -18,10 +18,15 @@ This repository contains a complete data processing pipeline that:
 - Produces publication-ready visualizations
 
 
-Citation
+Citations
 
-Source:
+Related Publication:
 Vidal-Barbosa, J. L. (2024). Brazilian daily rainfall gridded data from a quality controlled dataset (p. 49) [Master’s Thesis, Universidade Federal da Paraíba]. UFPB Repositório Institucional. https://repositorio.ufpb.br/jspui/handle/123456789/33310
+
+Data:
+Vidal-Barbosa, J. L., Lemos, F., Freitas, E. da S., Coelho, V. H. R., Souza da Silva, G. N., Patriota, E. G., Claudino, C. M. de A., Meira, M. A., Fullhart, A., Bertrand, G., De Souza, S. A., Rampinelleg, C. G., Almeida, C. D. N., & Estévez Gualda, J. (2025). BRain-D: Gridded Daily Rainfall Dataset for Brazil (Versão 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15468235
+
+
 
 Metadata
 
