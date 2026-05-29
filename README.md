@@ -1,7 +1,7 @@
 # BRain-D-v1
 
 
-The BRain-D (**B**razilian **Rain**fall at **D**aily scale) dataset provides high-resolution gridded daily rainfall data for Brazil, spanning the period from 1961 to 2024. It is based on records from 18,370 rain gauges distributed across multiple national hydrometeorological networks. The dataset is presented on a regular grid with a spatial resolution of 0.1° × 0.1°, offering extensive spatial coverage and temporal continuity.
+BRain-D (**B**razilian **Rain**fall quality-controlled dataset at **D**aily scale) provides high-resolution gridded daily rainfall data for Brazil, spanning the period from 1961 to 2024. It is based on records from 18,370 rain gauges distributed across multiple national hydrometeorological networks. The dataset is presented on a regular grid with a spatial resolution of 0.1° × 0.1°, offering extensive spatial coverage and temporal continuity.
 
 A key feature of BRain-D is its reliance on a systematic automatic quality control procedure (A-QCP), which annually classifies stations as High-Quality (HQ) or Low-Quality (LQ), ensuring that only reliable data are included in the gridding process. This approach enhances the accuracy and consistency of the final dataset.
 
