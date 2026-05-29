@@ -1,7 +1,7 @@
 # BRain-D-v1
 
 
-The BRain-D (BRazilian Daily) dataset provides high-resolution gridded daily rainfall data for Brazil, spanning the period from 1961 to 2024. It is based on records from 18,370 rain gauges distributed across multiple national hydrometeorological networks. The dataset is presented on a regular grid with a spatial resolution of 0.1° × 0.1°, offering extensive spatial coverage and temporal continuity.
+The BRain-D (**B**razilian **Rain**fall at **D**aily scale) dataset provides high-resolution gridded daily rainfall data for Brazil, spanning the period from 1961 to 2024. It is based on records from 18,370 rain gauges distributed across multiple national hydrometeorological networks. The dataset is presented on a regular grid with a spatial resolution of 0.1° × 0.1°, offering extensive spatial coverage and temporal continuity.
 
 A key feature of BRain-D is its reliance on a systematic automatic quality control procedure (A-QCP), which annually classifies stations as High-Quality (HQ) or Low-Quality (LQ), ensuring that only reliable data are included in the gridding process. This approach enhances the accuracy and consistency of the final dataset.
 
@@ -13,7 +13,7 @@ BRain-D is suitable for a wide range of climatological and hydrological applicat
 This repository contains a complete data processing pipeline that:
 - Cleans and filters raw rainfall data
 - Performs outlier detection using adjacent day and neighboring analysis
-- Calculates comprehensive quality metrics (P, Q1, Q2, Q3)
+- Calculates quality metrics (P, Q1, Q2, Q3)
 - Generates a final quality index for each rain gauge
 - Produces publication-ready visualizations
 
@@ -21,7 +21,11 @@ This repository contains a complete data processing pipeline that:
 Citations
 
 Related Publication:
+Vidal-Barbosa, J. L., Lemos, F. C., da Silva Freitas, E., Coelho, V. H. R., da Silva, G. N. S., Patriota, E. G., de Abreu Claudino, C. M., Meira, M. A., Fullhart, A. T., Bertrand, G. F., de Souza, S. A., Rampinelli, C. G., Estévez, J., & das Neves Almeida, C. (2026). BRain-D: A quality-controlled methodology for constructing the BRazilian Daily rainfall gridded data. **Atmospheric Research**, 330, 108552. https://doi.org/10.1016/j.atmosres.2025.108552
+
 Vidal-Barbosa, J. L. (2024). Brazilian daily rainfall gridded data from a quality controlled dataset (p. 49) [Master’s Thesis, Universidade Federal da Paraíba]. UFPB Repositório Institucional. https://repositorio.ufpb.br/jspui/handle/123456789/33310
+
+
 
 Dataset:
 Vidal-Barbosa, J. L., Lemos, F., Freitas, E. da S., Coelho, V. H. R., Souza da Silva, G. N., Patriota, E. G., Claudino, C. M. de A., Meira, M. A., Fullhart, A., Bertrand, G., De Souza, S. A., Rampinelleg, C. G., Almeida, C. D. N., & Estévez Gualda, J. (2025). BRain-D: Gridded Daily Rainfall Dataset for Brazil (Versão 1) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.15468235
